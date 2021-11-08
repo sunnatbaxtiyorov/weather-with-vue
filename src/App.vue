@@ -73,13 +73,13 @@ body{
   font-family: 'montserrat', sans-serif;
 }
 #app {
-  background-image: url('./assets/nature-1.jpg');
+  background-image: url('assets/nature-1.jpg');
   background-size: cover;
   background-position: center;
   transition: .4s;
 }
 #app.warm{
-  background-image: url('./assets/nature-2.jpg');
+  background-image: url('assets/nature-2.jpg');
 }
 main{
   display: flex;
